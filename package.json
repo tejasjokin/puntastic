@@ -1,5 +1,6 @@
 {
   "name": "sillyapi",
+  "homepage": "https://tejasjokin.github.io/sillyapi",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
