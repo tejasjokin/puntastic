@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/puntastic/static/css/main.b5252a55.chunk.css",
-    "main.js": "/puntastic/static/js/main.47f83a5d.chunk.js",
-    "main.js.map": "/puntastic/static/js/main.47f83a5d.chunk.js.map",
-    "runtime-main.js": "/puntastic/static/js/runtime-main.8b31a464.js",
-    "runtime-main.js.map": "/puntastic/static/js/runtime-main.8b31a464.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/puntastic/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.a761a3e4.chunk.js": "/puntastic/static/js/2.a761a3e4.chunk.js",
-    "static/js/2.a761a3e4.chunk.js.map": "/puntastic/static/js/2.a761a3e4.chunk.js.map",
-    "index.html": "/puntastic/index.html",
-    "precache-manifest.d9e882b3664330c096966214faa614fd.js": "/puntastic/precache-manifest.d9e882b3664330c096966214faa614fd.js",
-    "service-worker.js": "/puntastic/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/puntastic/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.b5252a55.chunk.css.map": "/puntastic/static/css/main.b5252a55.chunk.css.map",
-    "static/js/2.a761a3e4.chunk.js.LICENSE.txt": "/puntastic/static/js/2.a761a3e4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/puntastic/static/media/backslash-rpjol-webfont.c7359c5c.woff2",
-    "static/media/JokeType.css": "/puntastic/static/media/typewcond_regular-webfont.3b19eac0.woff"
+    "main.css": "/sillyapi/static/css/main.dd1fd9ca.chunk.css",
+    "main.js": "/sillyapi/static/js/main.55990b20.chunk.js",
+    "main.js.map": "/sillyapi/static/js/main.55990b20.chunk.js.map",
+    "runtime-main.js": "/sillyapi/static/js/runtime-main.5f06cb92.js",
+    "runtime-main.js.map": "/sillyapi/static/js/runtime-main.5f06cb92.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/sillyapi/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a761a3e4.chunk.js": "/sillyapi/static/js/2.a761a3e4.chunk.js",
+    "static/js/2.a761a3e4.chunk.js.map": "/sillyapi/static/js/2.a761a3e4.chunk.js.map",
+    "index.html": "/sillyapi/index.html",
+    "precache-manifest.cb50f055216a39151c23d8eda545c420.js": "/sillyapi/precache-manifest.cb50f055216a39151c23d8eda545c420.js",
+    "service-worker.js": "/sillyapi/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/sillyapi/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.dd1fd9ca.chunk.css.map": "/sillyapi/static/css/main.dd1fd9ca.chunk.css.map",
+    "static/js/2.a761a3e4.chunk.js.LICENSE.txt": "/sillyapi/static/js/2.a761a3e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sillyapi/static/media/backslash-rpjol-webfont.c7359c5c.woff2",
+    "static/media/JokeType.css": "/sillyapi/static/media/typewcond_regular-webfont.3b19eac0.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b31a464.js",
+    "static/js/runtime-main.5f06cb92.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.a761a3e4.chunk.js",
-    "static/css/main.b5252a55.chunk.css",
-    "static/js/main.47f83a5d.chunk.js"
+    "static/css/main.dd1fd9ca.chunk.css",
+    "static/js/main.55990b20.chunk.js"
   ]
 }
